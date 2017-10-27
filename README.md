@@ -1,5 +1,7 @@
 # SuperClone
 
+[![Travis](https://img.shields.io/travis/addvilz/superclone.svg?style=flat-square)](https://travis-ci.org/Addvilz/superclone) [![npm](https://img.shields.io/npm/v/superclone.svg?style=flat-square)](https://www.npmjs.com/package/superclone)
+
 ## Safe deep object clone utility for Node and modern browsers
 
 SuperClone is state-of-the art hybrid Node.JS and browser compatible deep clone utility,
