@@ -21,6 +21,8 @@ couple of years.
 - Very fast. SO many operations per second.
   - As many as your system can handle.
 - Just 243 bytes of top-grade Sixth Generation JavaScript code.
+  - 186 bytes when minified using multi-stage Sixth Generation JavaScript super-compressor.
+  - Up to 23.456790123456788% more bytes!
 - 110% code coverage.
 
 ### Requirements
