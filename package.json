@@ -1,6 +1,6 @@
 {
     "name": "superclone",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Safe deep object clone utility for Node.js and modern web browsers",
     "main": "superclone.js",
     "scripts": {
